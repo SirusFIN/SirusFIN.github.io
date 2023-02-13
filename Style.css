@@ -32,3 +32,11 @@ p{
     
     text-align: center;
 }
+
+li{
+    font-family: 'Trebuchet MS';
+    
+    background: linear-gradient( #4DFFC0 , #4D75FF);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
