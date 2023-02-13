@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(20, 20, 20);
+}
+h1{
+    font-family: 'Trebuchet MS';
+    
+    background: linear-gradient( #4DFFC0, #4D75FF);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    
+    text-align: center;
+    
+    font-size: 40px;
+}
+
+h2{
+    font-family: 'Trebuchet MS';
+    
+    background: linear-gradient( #4DFFC0 , #4D75FF);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    
+    text-align: center;
+}
+
+p{
+    font-family: 'Trebuchet MS';
+    
+    background: linear-gradient( #4DFFC0, #4D75FF);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    
+    text-align: center;
+}
