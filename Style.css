@@ -29,8 +29,6 @@ p{
     background: linear-gradient( #4DFFC0, #4D75FF);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
-    
-    text-align: center;
 }
 
 li{
@@ -39,4 +37,8 @@ li{
     background: linear-gradient( #4DFFC0 , #4D75FF);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
+}
+
+.center-aligned{
+    text-align: center;
 }
